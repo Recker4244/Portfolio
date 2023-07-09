@@ -1,14 +1,11 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import { Col, Container, Row } from "react-bootstrap";
 import silaan from "../../Assets/Projects/Silaan.webp";
-import oneboard from "../../Assets/Projects/dashboard.svg";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import editor from "../../Assets/Projects/codeEditor.png";
+import oneboard from "../../Assets/Projects/dashboard.svg";
+import Particle from "../Particle";
+import ProjectCard from "./ProjectCards";
 
 function Projects() {
   return (
