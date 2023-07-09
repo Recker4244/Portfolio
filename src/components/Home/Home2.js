@@ -19,9 +19,11 @@ function AboutMeCard() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            Welcome to my portfolio website! 👋😄 I'm a Full-stack developer specializing in dynamic web applications. 💻🌐 With a passion for seamless user experiences, I combine front-end ✨🎨 and back-end 💡🔧 skills to craft innovative solutions.
+              Welcome to my portfolio website! 👋😄 I'm a Full-stack developer
+              specializing in dynamic web applications. 💻🌐 With a passion for
+              seamless user experiences, I combine front-end ✨🎨 and back-end
+              💡🔧 skills to craft innovative solutions.
               <br />
-              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -39,7 +41,7 @@ function AboutMeCard() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/recker4244"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -49,32 +51,12 @@ function AboutMeCard() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ashutosh-senapati-2bb1091a5/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
