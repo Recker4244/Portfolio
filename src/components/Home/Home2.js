@@ -16,7 +16,7 @@ function AboutMeCard() {
             </h1>
             <p className="home-about-body">
               Welcome to my portfolio website! 👋😄 I'm a Full-stack developer
-              specializing in dynamic web applications. 💻🌐 With a passion for
+              specializing in dynamic web and mobile applications. 💻🌐 With a passion for
               seamless user experiences, I combine front-end ✨🎨 and back-end
               💡🔧 skills to craft innovative solutions.
               <br />
