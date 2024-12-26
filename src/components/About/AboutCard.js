@@ -10,9 +10,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ashutosh Senapati </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            I am currently working as a Softawre Engineer at CuraTech Pvt. Ltd.
+            I am currently working as a Software Engineer at CuraTech Pvt. Ltd.
             I graduated with a Bachelor's in Technology (B.Tech) in Computer
-            Science and Engineering at KIIT University.
+            Science and Engineering from KIIT University.
             <br />
             My journey began in high-growth startup environments, where I honed
             my skills in problem-solving, adaptability, and driving impactful
